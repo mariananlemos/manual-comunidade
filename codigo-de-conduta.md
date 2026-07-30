@@ -19,3 +19,7 @@
 
 Para reportar algum problema de conduta, entre em contato com o time da comunidade pelo e-mail: 
 contato@githubforwomen.exemplo
+
+> Todos os reportes serão tratados com confidencialidade.
+
+> Estes dados são fictícios e servem apenas para a prática do curso.
