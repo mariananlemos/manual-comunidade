@@ -29,3 +29,5 @@ Você pode compartilhar conhecimento, participar das discussões, divulgar oport
 
 📩 Como entro em contato com a organização?
 Você pode utilizar os canais oficiais da comunidade, como e-mail, formulário de contato ou mensagens nas redes sociais.
+
+----- Por mais Mulhers Tech -----
