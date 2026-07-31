@@ -18,7 +18,7 @@
 ## Como reportar problemas:
 
 Para reportar algum problema de conduta, entre em contato com o time da comunidade pelo e-mail: 
-contato@githubforwomen.exemplo
+reportes@githubforwomen.com
 
 > Todos os reportes serão tratados com confidencialidade.
 
