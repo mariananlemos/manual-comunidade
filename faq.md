@@ -40,4 +40,4 @@ Você pode compartilhar conhecimento, participar das discussões, divulgar oport
 
 Você pode utilizar os canais oficiais da comunidade, como e-mail, formulário de contato ou mensagens nas redes sociais.
 
-** ----- Por mais Mulhers Tech ----- **
+**POR MAIS MULHERS TECH**
