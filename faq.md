@@ -1,4 +1,4 @@
-## FAQ - Comunidade Mulheres Tech
+## FAQ - Comunidade GitHub for Women
 
 **👋 O que é a Comunidade Mulheres Tech?**
 
@@ -40,4 +40,4 @@ Você pode compartilhar conhecimento, participar das discussões, divulgar oport
 
 Você pode utilizar os canais oficiais da comunidade, como e-mail, formulário de contato ou mensagens nas redes sociais.
 
-**POR MAIS MULHERS TECH**
+** GitHub for women **
